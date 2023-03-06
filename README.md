@@ -1,4 +1,4 @@
-# oop-pratice
+# TDD-project
 
 TDD 개발 방식을 이용하여 여러 기능을 구현하였습니다.
 
